@@ -3,7 +3,7 @@
 ROS 2 driver for the Oradar MS200P 2D LiDAR. Reads data over a serial port, parses it, and publishes standard `sensor_msgs/LaserScan` messages to the `/scan` topic.
 
 ### RViz2 Visualization Example
-![Scan visualization in RViz](img.png)
+![Scan visualization in RViz](docs/img.png)
 
 ## Requirements
 
